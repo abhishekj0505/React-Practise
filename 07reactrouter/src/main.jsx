@@ -33,7 +33,6 @@ import Github, { githubInfoLoader } from "./components/Github/Github.jsx";
 //         element: <Contact/>
 //       }
 //     ]
-
 //   }
 // ])
 
