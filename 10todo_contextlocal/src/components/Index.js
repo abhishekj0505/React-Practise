@@ -1,5 +1,5 @@
-import Todoform from "./Todoform";
-import Todoitem from "./Todoitem";
+import TodoForm from "./Todoform";
+import TodoItem from "./Todoitem";
 
 
-export default {Todoform,Todoitem}
+export default {TodoForm,TodoItem}
